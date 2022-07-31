@@ -1,0 +1,405 @@
+{
+
+    "queries": [
+        {
+            "number": "51",
+            "text": "airbus subsidies"
+        },
+        {
+            "number": "52",
+            "text": "south african sanctions"
+        },
+        {
+            "number": "53",
+            "text": "leveraged buyouts"
+        },
+        {
+            "number": "54",
+            "text": "satellite launch contracts"
+        },
+        {
+            "number": "55",
+            "text": "insider trading"
+        },
+        {
+            "number": "56",
+            "text": "prime lending rate moves predictions"
+        },
+        {
+            "number": "57",
+            "text": "mci"
+        },
+        {
+            "number": "58",
+            "text": "rail strikes"
+        },
+        {
+            "number": "59",
+            "text": "weather related fatalities"
+        },
+        {
+            "number": "60",
+            "text": "meritpay vs seniority"
+        },
+        {
+            "number": "61",
+            "text": "israeli role in irancontra affair"
+        },
+        {
+            "number": "62",
+            "text": "military coups detat"
+        },
+        {
+            "number": "63",
+            "text": "machine translation"
+        },
+        {
+            "number": "64",
+            "text": "hostagetaking"
+        },
+        {
+            "number": "65",
+            "text": "information retrieval systems"
+        },
+        {
+            "number": "66",
+            "text": "natural language processing"
+        },
+        {
+            "number": "67",
+            "text": "politically motivated civil disturbances"
+        },
+        {
+            "number": "68",
+            "text": "health hazards from finediameter fibers"
+        },
+        {
+            "number": "69",
+            "text": "attempts to revive the salt ii treaty"
+        },
+        {
+            "number": "70",
+            "text": "surrogate motherhood"
+        },
+        {
+            "number": "71",
+            "text": "border incursions"
+        },
+        {
+            "number": "72",
+            "text": "demographic shifts in the us"
+        },
+        {
+            "number": "73",
+            "text": "demographic shifts across national boundaries"
+        },
+        {
+            "number": "74",
+            "text": "conflicting policy"
+        },
+        {
+            "number": "75",
+            "text": "automation"
+        },
+        {
+            "number": "76",
+            "text": "us constitution  original intent"
+        },
+        {
+            "number": "77",
+            "text": "poaching"
+        },
+        {
+            "number": "78",
+            "text": "greenpeace"
+        },
+        {
+            "number": "79",
+            "text": "frg political party positions"
+        },
+        {
+            "number": "80",
+            "text": "1988 presidential candidates platforms"
+        },
+        {
+            "number": "81",
+            "text": "financial crunch for televangelists in the wake of the ptl scandal"
+        },
+        {
+            "number": "82",
+            "text": "genetic engineering"
+        },
+        {
+            "number": "83",
+            "text": "measures to protect the atmosphere"
+        },
+        {
+            "number": "84",
+            "text": "alternativerenewable energy plant  equipment installation"
+        },
+        {
+            "number": "85",
+            "text": "official corruption"
+        },
+        {
+            "number": "86",
+            "text": "bank failures"
+        },
+        {
+            "number": "87",
+            "text": "criminal actions against officers of failed financial institutions"
+        },
+        {
+            "number": "88",
+            "text": "crude oil price trends"
+        },
+        {
+            "number": "89",
+            "text": "downstream investments by opec member states"
+        },
+        {
+            "number": "90",
+            "text": "data on proven reserves of oil  natural gas producers"
+        },
+        {
+            "number": "91",
+            "text": "us army acquisition of advanced weapons systems"
+        },
+        {
+            "number": "92",
+            "text": "international military equipment sales"
+        },
+        {
+            "number": "93",
+            "text": "what backing does the national rifle association have"
+        },
+        {
+            "number": "94",
+            "text": "computeraided crime"
+        },
+        {
+            "number": "95",
+            "text": "computeraided crime detection"
+        },
+        {
+            "number": "96",
+            "text": "computeraided medical diagnosis"
+        },
+        {
+            "number": "97",
+            "text": "fiber optics applications"
+        },
+        {
+            "number": "98",
+            "text": "fiber optics equipment manufacturers"
+        },
+        {
+            "number": "99",
+            "text": "irancontra affair"
+        },
+        {
+            "number": "100",
+            "text": "controlling the transfer of high technology"
+        },
+        {
+            "number": "101",
+            "text": "design of the star wars antimissile defense system"
+        },
+        {
+            "number": "102",
+            "text": "laser research applicable to the uss strategic defense initiative"
+        },
+        {
+            "number": "103",
+            "text": "welfare reform"
+        },
+        {
+            "number": "104",
+            "text": "catastrophic health insurance"
+        },
+        {
+            "number": "105",
+            "text": "black monday"
+        },
+        {
+            "number": "106",
+            "text": "us control of insider trading"
+        },
+        {
+            "number": "107",
+            "text": "japanese regulation of insider trading"
+        },
+        {
+            "number": "108",
+            "text": "japanese protectionist measures"
+        },
+        {
+            "number": "109",
+            "text": "find innovative companies"
+        },
+        {
+            "number": "110",
+            "text": "black resistance against the south african government"
+        },
+        {
+            "number": "111",
+            "text": "nuclear proliferation"
+        },
+        {
+            "number": "112",
+            "text": "funding biotechnology"
+        },
+        {
+            "number": "113",
+            "text": "new space satellite applications"
+        },
+        {
+            "number": "114",
+            "text": "noncommercial satellite launches"
+        },
+        {
+            "number": "115",
+            "text": "impact of the 1986 immigration law"
+        },
+        {
+            "number": "116",
+            "text": "generic drug substitutions"
+        },
+        {
+            "number": "117",
+            "text": "capacity of the us cellular telephone network"
+        },
+        {
+            "number": "118",
+            "text": "international terrorists"
+        },
+        {
+            "number": "119",
+            "text": "actions against international terrorists"
+        },
+        {
+            "number": "120",
+            "text": "economic impact of international terrorism"
+        },
+        {
+            "number": "121",
+            "text": "death from cancer"
+        },
+        {
+            "number": "122",
+            "text": "rdte of new cancer fighting drugs"
+        },
+        {
+            "number": "123",
+            "text": "research into  control of carcinogens"
+        },
+        {
+            "number": "124",
+            "text": "alternatives to traditional cancer therapies"
+        },
+        {
+            "number": "125",
+            "text": "antismoking actions by government"
+        },
+        {
+            "number": "126",
+            "text": "medical ethics and modern technology"
+        },
+        {
+            "number": "127",
+            "text": "usussr arms control agreements"
+        },
+        {
+            "number": "128",
+            "text": "privatization of state assets"
+        },
+        {
+            "number": "129",
+            "text": "soviet spying on the us"
+        },
+        {
+            "number": "130",
+            "text": "jewish emigration and usussr relations"
+        },
+        {
+            "number": "131",
+            "text": "mcdonnell douglas contracts for military aircraft"
+        },
+        {
+            "number": "132",
+            "text": "stealth aircraft"
+        },
+        {
+            "number": "133",
+            "text": "hubble space telescope"
+        },
+        {
+            "number": "134",
+            "text": "the human genome project"
+        },
+        {
+            "number": "135",
+            "text": "possible contributions of gene mapping to medicine"
+        },
+        {
+            "number": "136",
+            "text": "diversification by pacific telesis"
+        },
+        {
+            "number": "137",
+            "text": "expansion in the us theme park industry"
+        },
+        {
+            "number": "138",
+            "text": "iranian support for lebanese hostagetakers"
+        },
+        {
+            "number": "139",
+            "text": "irans islamic revolution  domestic and foreign social consequences"
+        },
+        {
+            "number": "140",
+            "text": "political impact of islamic fundamentalism"
+        },
+        {
+            "number": "141",
+            "text": "japans handling of its trade surplus with the us"
+        },
+        {
+            "number": "142",
+            "text": "impact of government regulated grain farming on international relations"
+        },
+        {
+            "number": "143",
+            "text": "why protect us farmers"
+        },
+        {
+            "number": "144",
+            "text": "management problems at the united nations"
+        },
+        {
+            "number": "145",
+            "text": "influence of the proisrael lobby"
+        },
+        {
+            "number": "146",
+            "text": "negotiating an end to the nicaraguan civil war"
+        },
+        {
+            "number": "147",
+            "text": "productivity trends in the us economy"
+        },
+        {
+            "number": "148",
+            "text": "conflict in the horn of africa"
+        },
+        {
+            "number": "149",
+            "text": "industrial espionage"
+        },
+        {
+            "number": "150",
+            "text": "us political campaign financing"
+        }
+    ]
+}

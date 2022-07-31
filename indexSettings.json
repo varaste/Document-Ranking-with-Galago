@@ -1,0 +1,15 @@
+{
+  "inputPath" : "CA1-Resources/Corpus/Documents.trectext",
+  "indexPath" : "indexFile",
+ 	"fileType":"trectext",
+ 	"server" : true,
+  "stemmer" : ["porter"],
+  "tokenizer" : {
+    "fields" : ["text","head"],
+    "formats" : {
+      "text"    : "string",
+      "head"    : "string"
+    }
+  }
+}
+    
