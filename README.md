@@ -1,1 +1,1 @@
-# Documentation-Ranking-with-Galago
+# Document-Ranking-with-Galago
