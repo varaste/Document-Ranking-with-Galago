@@ -233,3 +233,9 @@ Done Indexing.
   - 3310.79 Seconds
 Documents Indexed: 163912.
 ```
+
+With the BM25 method, we first perform the retrieval with the default values of b and k on the query set 101 to 150 with the value of 100 for the number of Requested, and obtain the values of Recall, MAP, nDCG and P@5. In the following, we change the values of b and k by trial and error first with long steps and note the values every time, and if we see an improvement compared to the default state, we try close values with smaller steps to reach the optimal value. 
+
+By searching in scientific sources, the suitable range for the b parameter was 0.3 to 1 and the suitable range for the k parameter was 0.5 to 2.5, and based on this, we tested the values in these areas as well as a margin from above and below these areas, and the parameters Optimum for questionnaires 101 to 150 for parameters b and k were seen as 0.4 and 2.6 respectively.
+
+The results obtained from these values were greater than the results obtained from the default values, which indicates that the optimization of these parameters was successful in obtaining better results.
