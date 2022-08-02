@@ -58,7 +58,9 @@ How to install java on ubuntu:
 								 "/usr/lib/jvm/java-11-openjdk-amd64"
 
 2- Maven
+
 How to install Maven on ubuntu:
+
 
 	Notice:the path below is where you have put the downloaded files, like: /home/USER_NAME/Desktop/Galago/apache-maven-3.6.2-bin.tar.gz 
 	a.cp /home/USER_NAME/Desktop/Galago/apache-maven-3.6.2-bin.tar.gz /tmp
@@ -83,6 +85,7 @@ How to install Maven on ubuntu:
 		OS name: "linux", version: "4.15.0-65-generic", arch: "amd64", family: "unix"		
 
 3- Galago
+
 	a.go to galago source folder : cd galago-3.16/
 	b.enter this command: mvn -DskipTests=true install (notice: it takes 30 minutes)
 		if (the installation brought up the error about dependency-check-maven 3.3.4):
@@ -113,8 +116,11 @@ How to install Maven on ubuntu:
 				[INFO] ------------------------------------------------------------------------
 	
 	c.enter this command: chmod +x core/target/appassembler/bin/galago
+	
 	d.enter this command: core/target/appassembler/bin/galago
+	
 	   output of this step:
+	   
 		Type 'galago help <command>' to get more help about any command.
 
 		    Popular commands:
@@ -157,6 +163,7 @@ How to install Maven on ubuntu:
 		       subcollection
 		       transform
 		       xcount
+
 
 	e. (optional) you can set an alias for 'galago' in your system to point out to '/core/target/appassembler/bin/galago'
 
@@ -201,4 +208,28 @@ Tokenization converts text into its constituent tokens. We do this with the foll
       "head"    : "string"
     }
   } 
+```
+
+![Tokenization](https://github.com/varaste/Document-Ranking-with-Galago/blob/main/assets/Arya%20Varaste-Tokenization.png)
+
+
+
+Finally, we extracted the file format which was initially unformatted with 7zip software from the Windows operating system and reached the .txt file. This type of files is suitable for documents and texts that we need to be able to see different parts of it separately.
+
+![trectext](https://github.com/varaste/Document-Ranking-with-Galago/blob/main/assets/Arya%20Varaste-%20trectext%20.png)
+
+We put the commands related to the settings mentioned above in the indexSettings.json file and run the following command in the terminal:
+
+```
+Galago/galago-3.16/core/target/appassembler/bin/galago build  /home/arya/Desktop/CA1-Resources/indexSettings.json
+```
+
+After about an hour of executing the Build command, the indexing process was completed successfully.
+
+```
+Done Indexing.
+  - 0.92 Hours
+  - 55.18 Minutes
+  - 3310.79 Seconds
+Documents Indexed: 163912.
 ```
