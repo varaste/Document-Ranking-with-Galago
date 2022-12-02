@@ -4,9 +4,9 @@ In this project, the goal is to get familiar with document evaluation criteria a
 
 ## Objectives
 
-- Indexing of all documents
-- Applying and familiarizing with available retrieval functions
-- Using evaluation criteria and calculating the effectiveness of evaluation functions
+- Indexing of all documents.
+- Applying and familiarizing with available retrieval functions.
+- Using evaluation criteria and calculating the effectiveness of evaluation functions.
 
 ## Prerequisite
 
